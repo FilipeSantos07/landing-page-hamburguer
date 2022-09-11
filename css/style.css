@@ -146,7 +146,8 @@ body {
         padding: 100px 2%;
         flex-direction: column;
         text-align: center;
-        gap: 5rem;    
+        gap: 5rem;
+        overflow-x: hidden;    
     }
     .home .text-h4 {
         font-size: 15px;
