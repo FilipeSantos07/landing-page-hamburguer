@@ -4,7 +4,7 @@
 
 > Trainning from Youtube
 
-Construí esse projeto junto com um youtuber, para praticar meus conhecimentos de HTML, CSS e Javascript, ficou show ^^
+Construí essa landing page com o auxílio de um tutorial no Youtube para praticar meus conhecimentos em HTML, CSS e Javascript. Ficou show de bola ^^
 
 [🔗 Clique aqui para acessar](https://filipesantos07.github.io/landing-page-hamburguer/)
 
