@@ -16,4 +16,4 @@ Construí essa landing page com o auxílio de um tutorial no Youtube para pratic
 
 ## 💛 Contato
 
-outerspaceguy@live.co.uk
+FilipeSantosEstudos1@gmail.com
